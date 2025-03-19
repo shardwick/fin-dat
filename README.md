@@ -5,4 +5,4 @@ data
 	transform 
 	fit 
 	test
-	generateO
+	generate 0
